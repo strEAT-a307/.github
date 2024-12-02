@@ -1,6 +1,6 @@
 # 🌭StrEAT
 
-![홍보](https://github.com/user-attachments/assets/edbe23b5-b525-4bb2-958d-8b2abfe57211)
+![홍보](https://github.com/user-attachments/assets/cbaa5843-7a99-40de-90a7-187045451e90)
 
 <br />
 
