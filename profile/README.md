@@ -105,10 +105,10 @@ $ cd ./backend
   </tr>
   <tr>
     <td style="width: 50%; text-align: center; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/1e5d162d-6532-4468-995d-24ccd40dddf4" alt="지도 기반 실시간 점포 조회" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
+      <img src="https://github.com/user-attachments/assets/7c2229e6-a3a8-4617-bbb4-02fc01cd0327" alt="지도 기반 실시간 점포 조회" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
     </td>
     <td style="width: 50%; text-align: center; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/59b06b88-a894-41a9-ab10-bbf7e3455c51" alt="영업 위치 간편 등록/영업 시작" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
+      <img src="https://github.com/user-attachments/assets/e7ecf1e2-d7d6-4f03-85df-4a4428bc44ac" alt="영업 위치 간편 등록/영업 시작" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
     </td>
   </tr>
   <tr>
@@ -117,11 +117,11 @@ $ cd ./backend
   </tr>
   <tr>
     <td style="width: 50%; text-align: center; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/5429f632-0f51-4eba-89bc-099122bab2a8" alt="주문/결제" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
+      <img src="https://github.com/user-attachments/assets/06e0d86e-9fce-47fa-878e-9148b8605ef5" alt="주문/결제" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
     </td>
     <td style="width: 50%; text-align: center; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/2a3e2021-9813-4752-bc22-15a7d0060055" alt="주문 알림" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
-      <img src="https://github.com/user-attachments/assets/a93f8623-0431-440f-ba9c-990a01fb7d62" alt="주문 관리" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
+      <img src="https://github.com/user-attachments/assets/1169991f-ab07-450d-ae51-fe6d1b850af3" alt="주문 알림" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
+      <img src="https://github.com/user-attachments/assets/4bf93b26-17dc-4a1d-ba0a-a3909a002932" alt="주문 관리" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
     </td>
   </tr>
   <tr>
@@ -130,10 +130,10 @@ $ cd ./backend
   </tr>
   <tr>
     <td style="width: 50%; text-align: center; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/e7b0bdea-a702-481d-a5e7-d6201846b6c0" alt="푸드트럭 공고 자동화" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
+      <img src="https://github.com/user-attachments/assets/32636184-7fae-429e-9c12-28b20de210d7" alt="푸드트럭 공고 자동화" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
     </td>
     <td style="width: 50%; text-align: center; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/4ffcc3bb-6251-46c2-aee3-cea3696cfec7" alt="상권 리포트" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
+      <img src="https://github.com/user-attachments/assets/17a46171-3bdb-456b-9d41-a0a24572ed30" alt="상권 리포트" style="max-width: 100%; height: 300px; object-fit: contain; display: block; margin: auto;">
     </td>
   </tr>
 </table>
